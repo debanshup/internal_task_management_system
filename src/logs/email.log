@@ -1,0 +1,268 @@
+[2024-12-23T11:33:22.009Z] Failed to send email to: example@gmail.com
+  Subject: Task Assigned
+  Error: connect ETIMEDOUT 74.125.68.108:465
+  
+  Email Content:
+  You have been assigned a task: Create a landing page
+  
+  -----------------------------
+[2024-12-23T11:34:41.722Z] Failed to send email to: example@gmail.com
+  Subject: Task Assigned
+  Error: connect ECONNREFUSED 127.0.0.1:587
+  
+  Email Content:
+  You have been assigned a task: Create a landing page
+  
+  -----------------------------
+[2024-12-23T11:35:00.509Z] Failed to send email to: example@gmail.com
+  Subject: Task Assigned
+  Error: connect ECONNREFUSED 127.0.0.1:587
+  
+  Email Content:
+  You have been assigned a task: Create a landing page
+  
+  -----------------------------
+[2024-12-23T11:42:27.549Z] Failed to send email to: example@gmail.com
+  Subject: Task Assigned
+  Error: connect ETIMEDOUT 44.212.106.134:2525
+  
+  Email Content:
+  You have been assigned a task: Create a landing page
+  
+  -----------------------------
+[2024-12-23T11:44:30.331Z] Failed to send email to: example@gmail.com
+  Subject: Task Assigned
+  Error: connect ETIMEDOUT 3.209.246.195:2525
+  
+  Email Content:
+  You have been assigned a task: Create a landing page
+  
+  -----------------------------
+[2024-12-23T12:03:57.354Z] Failed to send email to: example@gmail.com
+  Subject: Task Assigned
+  Error: connect ETIMEDOUT 54.80.103.13:2525
+  
+  Email Content:
+  You have been assigned a task: Create a landing page
+  
+  -----------------------------
+[2024-12-23T12:06:44.576Z] Failed to send email to: example@gmail.com
+  Subject: Task Assigned
+  Error: connect ETIMEDOUT 54.80.103.13:2525
+  
+  Email Content:
+  You have been assigned a task: Create a landing page
+  
+  -----------------------------
+[2024-12-24T15:35:32.228Z] Failed to send email to: john.doe@example.com
+  Subject: Task Assigned
+  Error: connect ETIMEDOUT 54.80.103.13:2525
+  
+  Email Content:
+  
+        <h2>Task Assigned: Create a landing page</h2>
+        <p><strong>Description:</strong> Create a landing page</p>
+        <p><strong>Created At:</strong> 24/12/2024, 9:05:10 pm</p>
+        <p><strong>Deadline:</strong> 19/12/2024, 5:30:00 am</p>
+        <p>Please complete the task before the deadline.</p>
+      
+  
+  -----------------------------
+[2024-12-24T15:38:20.637Z] Failed to send email to: james.taylor@example.com
+  Subject: Task Assigned
+  Error: connect ETIMEDOUT 3.219.2.182:2525
+  
+  Email Content:
+  
+        <h2>Task Assigned: Create a landing page</h2>
+        <p><strong>Description:</strong> Create a landing page</p>
+        <p><strong>Created At:</strong> 24/12/2024, 9:07:58 pm</p>
+        <p><strong>Deadline:</strong> 8/1/2025, 5:30:00 am</p>
+        <p>Please complete the task before the deadline.</p>
+      
+  
+  -----------------------------
+[2024-12-26T07:15:31.489Z] Failed to send email to: john.doe@example.com
+  Subject: New Task Assigned
+  Error: connect ETIMEDOUT 3.219.2.182:2525
+  
+  Email Content:
+  
+        <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+          <h2 style="color: #4CAF50;">Task Assigned: create a react app</h2>
+          <p style="margin: 0 0 10px;"><strong>Description:</strong></p>
+          <p style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
+            create a react app
+          </p>
+          <p><strong>Created On:</strong> 26/12/2024, 12:45:10 pm</p>
+          <p><strong>Deadline:</strong> 18/12/2024, 5:30:00 am</p>
+          <p style="margin-top: 20px;">
+            Please ensure the task is completed before the deadline.
+          </p>
+          <p style="margin-top: 30px;">Thank you,</p>
+          <p><strong>Your Team</strong></p>
+        </div>
+      
+  
+  -----------------------------
+[2024-12-26T07:16:53.760Z] Failed to send email to: michael.johnson@example.com
+  Subject: New Task Assigned
+  Error: connect ETIMEDOUT 3.219.2.182:2525
+  
+  Email Content:
+  
+        <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+          <h2 style="color: #4CAF50;">Task Assigned: create a react app</h2>
+          <p style="margin: 0 0 10px;"><strong>Description:</strong></p>
+          <p style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
+            create a react app
+          </p>
+          <p><strong>Created On:</strong> 26/12/2024, 12:46:32 pm</p>
+          <p><strong>Deadline:</strong> 18/12/2024, 5:30:00 am</p>
+          <p style="margin-top: 20px;">
+            Please ensure the task is completed before the deadline.
+          </p>
+          <p style="margin-top: 30px;">Thank you,</p>
+          <p><strong>Your Team</strong></p>
+        </div>
+      
+  
+  -----------------------------
+[2024-12-26T07:16:54.187Z] Failed to send email to: michael.johnson@example.com
+  Subject: New Task Assigned
+  Error: connect ETIMEDOUT 54.80.103.13:2525
+  
+  Email Content:
+  
+        <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+          <h2 style="color: #4CAF50;">Task Assigned: create a react app</h2>
+          <p style="margin: 0 0 10px;"><strong>Description:</strong></p>
+          <p style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
+            create a react app
+          </p>
+          <p><strong>Created On:</strong> 26/12/2024, 12:46:33 pm</p>
+          <p><strong>Deadline:</strong> 18/12/2024, 5:30:00 am</p>
+          <p style="margin-top: 20px;">
+            Please ensure the task is completed before the deadline.
+          </p>
+          <p style="margin-top: 30px;">Thank you,</p>
+          <p><strong>Your Team</strong></p>
+        </div>
+      
+  
+  -----------------------------
+[2024-12-26T07:16:54.489Z] Failed to send email to: michael.johnson@example.com
+  Subject: New Task Assigned
+  Error: connect ETIMEDOUT 18.215.44.90:2525
+  
+  Email Content:
+  
+        <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+          <h2 style="color: #4CAF50;">Task Assigned: create a react app</h2>
+          <p style="margin: 0 0 10px;"><strong>Description:</strong></p>
+          <p style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
+            create a react app
+          </p>
+          <p><strong>Created On:</strong> 26/12/2024, 12:46:33 pm</p>
+          <p><strong>Deadline:</strong> 18/12/2024, 5:30:00 am</p>
+          <p style="margin-top: 20px;">
+            Please ensure the task is completed before the deadline.
+          </p>
+          <p style="margin-top: 30px;">Thank you,</p>
+          <p><strong>Your Team</strong></p>
+        </div>
+      
+  
+  -----------------------------
+[2024-12-26T07:16:54.722Z] Failed to send email to: michael.johnson@example.com
+  Subject: New Task Assigned
+  Error: connect ETIMEDOUT 3.86.141.192:2525
+  
+  Email Content:
+  
+        <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+          <h2 style="color: #4CAF50;">Task Assigned: create a react app</h2>
+          <p style="margin: 0 0 10px;"><strong>Description:</strong></p>
+          <p style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
+            create a react app
+          </p>
+          <p><strong>Created On:</strong> 26/12/2024, 12:46:33 pm</p>
+          <p><strong>Deadline:</strong> 18/12/2024, 5:30:00 am</p>
+          <p style="margin-top: 20px;">
+            Please ensure the task is completed before the deadline.
+          </p>
+          <p style="margin-top: 30px;">Thank you,</p>
+          <p><strong>Your Team</strong></p>
+        </div>
+      
+  
+  -----------------------------
+[2024-12-26T07:16:54.940Z] Failed to send email to: michael.johnson@example.com
+  Subject: New Task Assigned
+  Error: connect ETIMEDOUT 18.215.44.90:2525
+  
+  Email Content:
+  
+        <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+          <h2 style="color: #4CAF50;">Task Assigned: create a react app</h2>
+          <p style="margin: 0 0 10px;"><strong>Description:</strong></p>
+          <p style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
+            create a react app
+          </p>
+          <p><strong>Created On:</strong> 26/12/2024, 12:46:33 pm</p>
+          <p><strong>Deadline:</strong> 18/12/2024, 5:30:00 am</p>
+          <p style="margin-top: 20px;">
+            Please ensure the task is completed before the deadline.
+          </p>
+          <p style="margin-top: 30px;">Thank you,</p>
+          <p><strong>Your Team</strong></p>
+        </div>
+      
+  
+  -----------------------------
+[2024-12-26T07:16:55.410Z] Failed to send email to: michael.johnson@example.com
+  Subject: New Task Assigned
+  Error: connect ETIMEDOUT 18.215.44.90:2525
+  
+  Email Content:
+  
+        <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+          <h2 style="color: #4CAF50;">Task Assigned: create a react app</h2>
+          <p style="margin: 0 0 10px;"><strong>Description:</strong></p>
+          <p style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
+            create a react app
+          </p>
+          <p><strong>Created On:</strong> 26/12/2024, 12:46:34 pm</p>
+          <p><strong>Deadline:</strong> 18/12/2024, 5:30:00 am</p>
+          <p style="margin-top: 20px;">
+            Please ensure the task is completed before the deadline.
+          </p>
+          <p style="margin-top: 30px;">Thank you,</p>
+          <p><strong>Your Team</strong></p>
+        </div>
+      
+  
+  -----------------------------
+[2024-12-26T07:17:00.910Z] Failed to send email to: michael.johnson@example.com
+  Subject: New Task Assigned
+  Error: connect ETIMEDOUT 3.86.141.192:2525
+  
+  Email Content:
+  
+        <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+          <h2 style="color: #4CAF50;">Task Assigned: create a react app</h2>
+          <p style="margin: 0 0 10px;"><strong>Description:</strong></p>
+          <p style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
+            create a react app
+          </p>
+          <p><strong>Created On:</strong> 26/12/2024, 12:46:39 pm</p>
+          <p><strong>Deadline:</strong> 18/12/2024, 5:30:00 am</p>
+          <p style="margin-top: 20px;">
+            Please ensure the task is completed before the deadline.
+          </p>
+          <p style="margin-top: 30px;">Thank you,</p>
+          <p><strong>Your Team</strong></p>
+        </div>
+      
+  
+  -----------------------------
